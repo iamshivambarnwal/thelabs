@@ -17,7 +17,7 @@
 
 [![Compass_botz](https://img.shields.io/badge/Compass-Bots-867ae9?style=flat&logo=telegram)](https://telegram.dog/compass_botz)  
 ㅤㅤㅤㅤㅤㅤㅤ   
-[![MIT license](https://img.shields.io/badge/License-MIT-867ae9?style=flat)](https://github.com/dakshkohli23/Unlimited-Filter-Bot/blob/main/LICENSE)  [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/dakshkohli23/Unlimited-Filter-Bot)
+[![MIT license](https://img.shields.io/badge/License-MIT-867ae9?style=flat)](https://github.com/iamshivambarnwal/thelabs//blob/main/LICENSE)  [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/iamshivambarnwal/thelabs/)
 
 
 ## An advanced Filter Bot with nearly unlimitted filters!
